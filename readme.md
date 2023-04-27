@@ -16,7 +16,7 @@ Example: set 'mykey' 'myvalue'
 Key dog set to manny
 >>> get dog
 Value: manny
-
+```
 
 *Not yet distributed
 
