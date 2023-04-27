@@ -32,3 +32,4 @@ ENV/
 *.log
 *.sqlite3
 *.pyc
+*.pkl
